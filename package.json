@@ -1,0 +1,17 @@
+{
+  "name": "nb2cdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cartodb": "^0.2.1",
+    "mustache": "^2.2.1",
+    "request": "^2.67.0",
+    "squel": "^4.2.2"
+  }
+}
